@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+Sun Jul 25 23:35:23 NZST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017a-dd72-c38c-000006cd1c78 
+on database directory C:\Users\Roy\Documents\P18_19074735\pdcAssn2\gameDB with class loader sun.misc.Launcher$AppClassLoader@14ae5a5 
+Loaded from file:/C:/Users/Roy/Documents/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Users\Roy\Documents\P18_19074735\pdcAssn2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jul 25 23:35:24 NZST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a02ac013-017a-dd72-c38c-000006cd1c78 
+on database directory C:\Users\Roy\Documents\P18_19074735\pdcAssn2\PlayerDB with class loader sun.misc.Launcher$AppClassLoader@14ae5a5 
+Loaded from file:/C:/Users/Roy/Documents/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Users\Roy\Documents\P18_19074735\pdcAssn2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
